@@ -1,0 +1,4 @@
+# PHP8.1-CRUD
+
+- PHP8.1
+- MySQL
